@@ -1,6 +1,6 @@
-+ <b>Author: Moole Muralidhara Reddy</b></br>
-+ <b>Email:</b> techworldwithmurali@gmail.com</br>
-+ <b>Website:</b> https://www.techworldwithmurali.com/ , https://www.devopsbymurali.com/</br>
++ <b>Author: kanchuganti aruna </b></br>
++ <b>Email:</b> devopsbyaruna@gmail.com</br>
++ <b>Website:</b> https://www.devopsbyaruna@gmail.com/ , https://www.devopsbymurali.com/</br>
 + <b>Description:</b> Below are the steps outlined for Jenkins Freestyle - Build and Deploy the war file in Tomcat.</br>
 
 ## Jenkins Freestyle - Build and Deploy the war file in Tomcat.
